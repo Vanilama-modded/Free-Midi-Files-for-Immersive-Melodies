@@ -8,7 +8,9 @@ you can just paste in the url from the file if youre on hytale
 
 and download the file and drag and drop it into an instruments Gui on minecraft
 
----
+## Wanna Collaborate
+if you have a midi song which sounds good ingame with the Y/Immersive Melodies mod than we'd appreciate it if you'd make a pull request with midi file and source website linked or directly contact us Via [Discord](https://discord.gg/wz3ZvfA7kQ) 
+
 
 ## Where do we get theese Midi files from?
 
