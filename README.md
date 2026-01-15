@@ -1,8 +1,8 @@
-### Notice
+## Notice
 
 some songs are here multiple times. but they're not the same they are midi files of the same song but with small differences
 
----
+## How to add
 
 you can just paste in the url from the file if youre on hytale
 
