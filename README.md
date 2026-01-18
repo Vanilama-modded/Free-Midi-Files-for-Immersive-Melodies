@@ -29,3 +29,5 @@ we gather theese midi files from sources like:
 - [Online Sequencer](https://onlinesequencer.net/sequences)
 - [Wild West Midis](https://thewildwestmidis.github.io/)
 - [NanoMidi](https://nanomidi.net/)
+- [Midi World](https://www.midiworld.com/files/)
+- [Free Midis](https://freemidi.org/)
