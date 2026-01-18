@@ -28,3 +28,4 @@ we gather theese midi files from sources like:
 - [BitMidi](https://bitmidi.com/)
 - [Online Sequencer](https://onlinesequencer.net/sequences)
 - [Wild West Midis](https://thewildwestmidis.github.io/)
+- [NanoMidi](https://nanomidi.net/)
