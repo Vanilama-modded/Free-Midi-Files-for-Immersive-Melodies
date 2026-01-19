@@ -9,7 +9,7 @@ Multi Instrument Songs are songs that have to be played by multiple players with
 ## How to add ingame
 
 ### for hytale you can follow thia guide:
-<iframe width="560" height="315" src="https://youtu.be/ZoyQrM93ypc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+[![Watch the video](https://img.youtube.com/vi/ZoyQrM93ypc/0.jpg)](https://www.youtube.com/watch?v=ZoyQrM93ypc)      
 
 and download the file and drag and drop it into an instruments Gui on minecraft.
 
