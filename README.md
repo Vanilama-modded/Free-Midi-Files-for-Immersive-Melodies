@@ -11,8 +11,16 @@ Multi Instrument Songs are songs that have to be played by multiple players with
 ### for hytale you can follow this guide:
 [![Watch the video](https://img.youtube.com/vi/ZoyQrM93ypc/0.jpg)](https://www.youtube.com/watch?v=ZoyQrM93ypc)      
 
-### And for minecraft just:
+### And for minecraft:
 download the file and drag and drop it into an instruments Gui on minecraft.
+
+## Converting an Audio to the Midi format
+
+if you cant find a midi version of the song you're searching for but can get your hands on a .wav, .mp3, .flac or .ogg version of the song than you can use an online tool which converts it into a midi file. **Though Do Note Converted midi files most of the time don't sound very good**
+we're currently trying to find the best free audio to midi file converters out there.
+currently the best sounding ones are:
+- [MusicCreator](https://www.musiccreator.ai/audio-to-midi-converter)
+- [OpenMusic](https://www.openmusic.ai/audio-to-midi)
 
 ## Wanna Collaborate
 if you have a midi song which sounds good ingame with the Y/Immersive Melodies mod than we'd appreciate it if you'd make a pull request with midi file and source website linked or directly contact us Via [Discord](https://discord.gg/wz3ZvfA7kQ).
