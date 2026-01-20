@@ -21,6 +21,7 @@ we're currently trying to find the best free audio to midi file converters out t
 currently the best sounding ones are:
 - [MusicCreator](https://www.musiccreator.ai/audio-to-midi-converter)
 - [OpenMusic](https://www.openmusic.ai/audio-to-midi)
+- [BasicPitch By Spotify](https://basicpitch.spotify.com/) !Still in Demo!
 
 ## Wanna Collaborate
 if you have a midi song which sounds good ingame with the Y/Immersive Melodies mod than we'd appreciate it if you'd make a pull request with midi file and source website linked or directly contact us Via [Discord](https://discord.gg/wz3ZvfA7kQ).
